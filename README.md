@@ -1,2 +1,3 @@
-# my-portfolio
-this is my Portfolio
+# Sujish Lakshmanan's Portfolio
+this is my professional Portfolio
+It uses AWS and ReactJS
