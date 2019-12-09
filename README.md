@@ -6,3 +6,7 @@ It uses AWS and ReactJS
 Brew
 Git
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
